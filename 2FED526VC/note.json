@@ -1,0 +1,67 @@
+{
+  "paragraphs": [
+    {
+      "text": "print \"check if acl setting is persistent.\"",
+      "user": "zeppelin1",
+      "dateUpdated": "2020-07-07 21:38:15.348",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "check if acl setting is persistent.\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1594157854966_2031650808",
+      "id": "20200707-213734_2035576433",
+      "dateCreated": "2020-07-07 21:37:34.966",
+      "dateStarted": "2020-07-07 21:38:15.360",
+      "dateFinished": "2020-07-07 21:38:15.384",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "user": "zeppelin1",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1594157879447_2025062701",
+      "id": "20200707-213759_485909629",
+      "dateCreated": "2020-07-07 21:37:59.447",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "mynotes/zeppelin1-private-test-acl-persistent",
+  "id": "2FED526VC",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {
+    "python:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
