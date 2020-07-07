@@ -3,7 +3,7 @@
     {
       "text": "%python\n7%3 + 10 + 100 * 2",
       "user": "zeppelin1",
-      "dateUpdated": "2020-07-07 05:08:39.168",
+      "dateUpdated": "2020-07-07 19:09:57.875",
       "config": {
         "colWidth": 12.0,
         "fontSize": 9.0,
@@ -36,8 +36,8 @@
       "jobName": "paragraph_1594079734429_1292514819",
       "id": "20200706-235534_1953555341",
       "dateCreated": "2020-07-06 23:55:34.429",
-      "dateStarted": "2020-07-07 05:08:27.128",
-      "dateFinished": "2020-07-07 05:08:27.150",
+      "dateStarted": "2020-07-07 19:09:57.941",
+      "dateFinished": "2020-07-07 19:10:01.863",
       "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
@@ -56,13 +56,12 @@
       "progressUpdateIntervalMs": 500
     }
   ],
-  "name": "/test/trypython",
+  "name": "~Trash/test/trypython",
   "id": "2FD137NSC",
   "noteParams": {},
   "noteForms": {},
   "angularObjects": {
-    "python:shared_process": [],
-    "spark:shared_process": []
+    "python:shared_process": []
   },
   "config": {
     "isZeppelinNotebookCronEnable": false
