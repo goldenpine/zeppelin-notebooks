@@ -1,9 +1,9 @@
 {
   "paragraphs": [
     {
-      "text": "2+6",
+      "text": "s \u003d 2+6\nprint \"my value is\", s",
       "user": "zeppelin2",
-      "dateUpdated": "2020-07-07 19:19:07.389",
+      "dateUpdated": "2020-07-07 19:26:53.848",
       "config": {
         "colWidth": 12.0,
         "fontSize": 9.0,
@@ -25,7 +25,7 @@
         "msg": [
           {
             "type": "TEXT",
-            "data": "8"
+            "data": "my value is 8\n"
           }
         ]
       },
@@ -33,8 +33,8 @@
       "jobName": "paragraph_1594149406744_1225849112",
       "id": "20200707-191646_513997111",
       "dateCreated": "2020-07-07 19:16:46.744",
-      "dateStarted": "2020-07-07 19:19:07.399",
-      "dateFinished": "2020-07-07 19:19:07.422",
+      "dateStarted": "2020-07-07 19:26:53.855",
+      "dateFinished": "2020-07-07 19:26:53.877",
       "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
