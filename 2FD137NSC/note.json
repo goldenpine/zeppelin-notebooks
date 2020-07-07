@@ -1,9 +1,9 @@
 {
   "paragraphs": [
     {
-      "text": "7%3 + 10",
+      "text": "7%3 + 10 +100",
       "user": "anonymous",
-      "dateUpdated": "2020-07-07 00:07:41.413",
+      "dateUpdated": "2020-07-07 04:31:10.320",
       "config": {
         "colWidth": 12.0,
         "fontSize": 9.0,
@@ -57,9 +57,7 @@
   "id": "2FD137NSC",
   "noteParams": {},
   "noteForms": {},
-  "angularObjects": {
-    "python:shared_process": []
-  },
+  "angularObjects": {},
   "config": {
     "isZeppelinNotebookCronEnable": false
   },
