@@ -1,0 +1,67 @@
+{
+  "paragraphs": [
+    {
+      "text": "2+6",
+      "user": "zeppelin2",
+      "dateUpdated": "2020-07-07 19:19:07.389",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "8"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1594149406744_1225849112",
+      "id": "20200707-191646_513997111",
+      "dateCreated": "2020-07-07 19:16:46.744",
+      "dateStarted": "2020-07-07 19:19:07.399",
+      "dateFinished": "2020-07-07 19:19:07.422",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "user": "zeppelin1",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1594149418812_102275333",
+      "id": "20200707-191658_1051403725",
+      "dateCreated": "2020-07-07 19:16:58.812",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "/mynotes/trypython",
+  "id": "2FCRPPUY9",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {
+    "python:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
