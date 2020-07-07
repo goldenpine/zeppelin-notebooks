@@ -1,0 +1,68 @@
+{
+  "paragraphs": [
+    {
+      "text": "s\u003d\"Helllo world from {}\"\nprint s.format(\"zeppelin2\")",
+      "user": "zeppelin1",
+      "dateUpdated": "2020-07-07 21:27:36.681",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "Helllo world from zeppelin2\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1594157083728_-1334265649",
+      "id": "20200707-212443_1988476989",
+      "dateCreated": "2020-07-07 21:24:43.728",
+      "dateStarted": "2020-07-07 21:27:36.689",
+      "dateFinished": "2020-07-07 21:27:36.709",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "user": "zeppelin1",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1594157138322_-123420193",
+      "id": "20200707-212538_849720713",
+      "dateCreated": "2020-07-07 21:25:38.322",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "mynotes/zeppelin1-private",
+  "id": "2FEPQAKSD",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {
+    "python:shared_process": [],
+    "spark:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
