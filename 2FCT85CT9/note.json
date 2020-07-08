@@ -1,9 +1,9 @@
 {
   "paragraphs": [
     {
-      "text": "9*6",
+      "text": "%python\n9*6",
       "user": "zeppelin1",
-      "dateUpdated": "2020-07-07 21:03:17.659",
+      "dateUpdated": "2020-07-08 22:35:18.469",
       "config": {
         "colWidth": 12.0,
         "fontSize": 9.0,
@@ -12,7 +12,8 @@
         "editorSetting": {
           "language": "python",
           "editOnDblClick": false,
-          "completionSupport": true
+          "completionSupport": true,
+          "completionKey": "TAB"
         },
         "editorMode": "ace/mode/python"
       },
@@ -33,8 +34,8 @@
       "jobName": "paragraph_1594155789185_-817690570",
       "id": "20200707-210309_1142090997",
       "dateCreated": "2020-07-07 21:03:09.185",
-      "dateStarted": "2020-07-07 21:03:17.680",
-      "dateFinished": "2020-07-07 21:03:21.502",
+      "dateStarted": "2020-07-08 22:35:18.498",
+      "dateFinished": "2020-07-08 22:35:22.942",
       "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
@@ -58,7 +59,8 @@
   "noteParams": {},
   "noteForms": {},
   "angularObjects": {
-    "python:shared_process": []
+    "python:shared_process": [],
+    "spark:shared_process": []
   },
   "config": {
     "isZeppelinNotebookCronEnable": false
